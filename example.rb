@@ -6,5 +6,5 @@ test.continue
 puts "I'm about to clear the screen"
 test.continue
 test.clear
-puts  "Cleared!"
+puts "Cleared!"
 test.continue
